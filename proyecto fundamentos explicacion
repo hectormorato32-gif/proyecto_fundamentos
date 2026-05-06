@@ -1,0 +1,20 @@
+Proyecto: Control de Gastos Personales
+📌 Descripción del proyecto
+Este proyecto consiste en el desarrollo de un programa en Python que permite llevar un control de los gastos personales de manera sencilla. El objetivo principal es ayudar al usuario a registrar, organizar y analizar sus gastos diarios, facilitando así una mejor administración del dinero.
+🎯 Objetivo
+El objetivo de este programa es brindar una herramienta básica que permita al usuario conocer en qué está gastando su dinero, cuánto ha gastado en total y en qué categorías realiza más gastos.
+⚙️ Funcionamiento
+El programa cuenta con un menú interactivo que permite al usuario seleccionar diferentes opciones, tales como:
+Agregar un gasto (incluyendo monto, categoría y descripción)
+Visualizar la lista de gastos registrados
+Calcular el total de gastos
+Analizar los gastos por categoría
+Además, la información se guarda en un archivo para que no se pierda al cerrar el programa.
+🧠 Problema que soluciona
+Muchas personas no tienen un control claro sobre sus gastos diarios, lo que puede generar desorden financiero. Este programa busca solucionar ese problema ofreciendo una forma práctica de registrar y consultar los gastos.
+💻 Tecnologías utilizadas
+Lenguaje de programación: Python
+Manejo de archivos (texto o CSV)
+Estructuras de datos como listas y diccionarios
+✅ Conclusión
+Este proyecto demuestra cómo la programación puede utilizarse para resolver problemas de la vida cotidiana. A través de una herramienta simple, el usuario puede mejorar su organización financiera y tomar decisiones más informadas sobre el uso de su dinero.
